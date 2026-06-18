@@ -108,37 +108,81 @@ A full-featured **Flutter flat management app** built for bachelor roommates —
 
 ## Screenshots
 
+### Log in
+
 <table>
   <tr>
-    <td align="center"><img src="app screenshots/1.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/2.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/3.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/1a.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/2a.jpg" width="220"/></td>
   </tr>
+</table>
+
+---
+
+### Join Flat
+
+<table>
   <tr>
+    <td align="center"><img src="app screenshots/3.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/4.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/5.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/6.jpg" width="220"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="app screenshots/5a.jpg" width="220"/></td>
+  </tr>
+</table>
+
+---
+
+### Create Flat
+
+<table>
+  <tr>
+    <td align="center"><img src="app screenshots/6.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/7.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/8.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/9.jpg" width="220"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="app screenshots/9.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/10.jpg" width="220"/></td>
+  </tr>
+</table>
+
+---
+
+### Meals
+
+<table>
+  <tr>
     <td align="center"><img src="app screenshots/11.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/12.jpg" width="220"/></td>
-  </tr>
-  <tr>
     <td align="center"><img src="app screenshots/13.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/14.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/15.jpg" width="220"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="app screenshots/14.jpg" width="220"/></td>
+  </tr>
+</table>
+
+---
+
+### Expenses
+
+<table>
+  <tr>
+    <td align="center"><img src="app screenshots/15.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/16.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/17.jpg" width="220"/></td>
+  </tr>
+  <tr>
     <td align="center"><img src="app screenshots/18.jpg" width="220"/></td>
   </tr>
+</table>
+
+---
+
+### Tasks
+
+<table>
   <tr>
     <td align="center"><img src="app screenshots/19.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/20.jpg" width="220"/></td>
@@ -149,34 +193,72 @@ A full-featured **Flutter flat management app** built for bachelor roommates —
     <td align="center"><img src="app screenshots/23.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/24.jpg" width="220"/></td>
   </tr>
+</table>
+
+---
+
+### Chats
+
+<table>
   <tr>
     <td align="center"><img src="app screenshots/25.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/26.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/27.jpg" width="220"/></td>
   </tr>
+</table>
+
+---
+
+### Notices
+
+<table>
   <tr>
     <td align="center"><img src="app screenshots/28.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/28a.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/29.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/30.jpg" width="220"/></td>
   </tr>
+</table>
+
+---
+
+### Bazar Lists
+
+<table>
   <tr>
+    <td align="center"><img src="app screenshots/30.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/31.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/32.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/33.jpg" width="220"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="app screenshots/33.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/34.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/35.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/36.jpg" width="220"/></td>
   </tr>
+</table>
+
+---
+
+### Activity Log, Profile & Members
+
+<table>
   <tr>
+    <td align="center"><img src="app screenshots/36.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/37.jpg" width="220"/></td>
+  </tr>
+
+---
+
+### Emergency SOS Help
+
+<table>
+  <tr>
     <td align="center"><img src="app screenshots/38.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/39.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/40.jpg" width="220"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="app screenshots/40.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/41.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/42.jpg" width="220"/></td>
   </tr>
 </table>
 
