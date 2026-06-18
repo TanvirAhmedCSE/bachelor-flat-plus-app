@@ -258,7 +258,6 @@ A full-featured **Flutter flat management app** built for bachelor roommates —
   </tr>
   <tr>
     <td align="center"><img src="app screenshots/41.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/42.jpg" width="220"/></td>
   </tr>
 </table>
 
