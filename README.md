@@ -119,7 +119,7 @@ A full-featured **Flutter flat management app** built for bachelor roommates —
 
 ---
 
-### Join Flat
+### Create Flat
 
 <table>
   <tr>
@@ -134,7 +134,7 @@ A full-featured **Flutter flat management app** built for bachelor roommates —
 
 ---
 
-### Create Flat
+### Join Flat
 
 <table>
   <tr>
