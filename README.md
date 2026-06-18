@@ -245,7 +245,7 @@ A full-featured **Flutter flat management app** built for bachelor roommates —
     <td align="center"><img src="app screenshots/36.jpg" width="220"/></td>
     <td align="center"><img src="app screenshots/37.jpg" width="220"/></td>
   </tr>
-
+</table>
 ---
 
 ### Emergency SOS Help
